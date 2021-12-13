@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+.kast{
+    background-color: gray;
+    width:px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 40%;
+    left:42%;
+    margin-left: -225px;
+}
+.noot-w {
+    background-color: white;
+    width: 100px;
+    height: 250px;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    font-size: 50px;
+    border: solid black;
+}
+.noot-b {
+    width: 25px;
+    height: 225px;
+    background-color: black;
+    color: white;
+    margin-right: 0%;
+    border-radius: 0px 0px 10px 0px;
+}
+.noot-b2 {
+    width: 25px;
+    height: 225px;
+    background-color: black;
+    color: white;
+    margin-left: auto;
+    border-radius: 0px 0px 0px 10px;
+}
